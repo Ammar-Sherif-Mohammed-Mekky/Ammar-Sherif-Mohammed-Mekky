@@ -3,7 +3,8 @@
 <!--
 **Ammar-Sherif-Mohammed-Mekky/Ammar-Sherif-Mohammed-Mekky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:                              
+<a href="https://app.daily.dev/AmmarSherif"><img src="https://api.daily.dev/devcards/dd66892f9ee04da8bf0ab7b05bab1e36.png?r=wzf" width="400" alt="Ammar Sherif Mekky's Dev Card"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
