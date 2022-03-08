@@ -17,4 +17,4 @@ Here are some ideas to get you started: -->
 
 
 <a href="https://app.daily.dev/AmmarSherif"><img src="https://api.daily.dev/devcards/dd66892f9ee04da8bf0ab7b05bab1e36.png?r=wzf" width="400" alt="Ammar Sherif Mekky's Dev Card"/></a>
-<a href="https://app.daily.dev/AmmarSherif"><img src="https://github.com/Ammar-Sherif-Mohammed-Mekky/Ammar-Sherif-Mohammed-Mekky/blob/master/devcard.svg" width="400" alt="Ammar Sherif's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/AmmarSherif"><img src="https://github.com/Ammar-Sherif-Mohammed-Mekky/Ammar-Sherif-Mohammed-Mekky/blob/master/devcard.svg" width="400" alt="Ammar Sherif's Dev Card"/></a> -->
