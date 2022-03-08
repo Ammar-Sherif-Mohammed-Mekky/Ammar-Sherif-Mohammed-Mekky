@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started: -->                             
 
-
+<!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning JavaScript
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with React
 - 💬 Ask me about HTML & CSS
 - 📫 How to reach me: ammarmekky0@outlook.com
