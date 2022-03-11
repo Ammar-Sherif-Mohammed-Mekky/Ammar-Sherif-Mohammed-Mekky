@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with React
 - 💬 Ask me about HTML & CSS
-- 📫 How to reach me: ammarmekky0@outlook.com
+- 📫 How to reach me: ammarmekky2008@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
