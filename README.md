@@ -31,6 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-sherif-mohammed-mekky&show_icons=true&locale=en" alt="ammar-sherif-mohammed-mekky" /></p>
 
+<hr>
 
 
 <a href="https://app.daily.dev/AmmarSherif"><img src="https://api.daily.dev/devcards/dd66892f9ee04da8bf0ab7b05bab1e36.png?r=wzf" width="400" alt="Ammar Sherif Mekky's Dev Card"/></a>
