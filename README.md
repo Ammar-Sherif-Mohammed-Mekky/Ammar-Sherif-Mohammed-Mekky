@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ammar Sherif</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammar-sherif-mohammed-mekky&label=Profile%20views&color=0e75b6&style=flat" alt="ammar-sherif-mohammed-mekky" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-sherif-mohammed-mekky" alt="ammar-sherif-mohammed-mekky" /></a> </p>
+
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Html, CSS, Bootstrap**
@@ -21,7 +25,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/AmmarSherif"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AmmarSherif" /></a></p><br><br>
 <br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-sherif-mohammed-mekky&show_icons=true&locale=en&layout=compact" alt="ammar-sherif-mohammed-mekky" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-sherif-mohammed-mekky&show_icons=true&locale=en" alt="ammar-sherif-mohammed-mekky" /></p>
