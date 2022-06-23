@@ -8,6 +8,9 @@
   <a href="https://hashnode.com/@AmmarSherif" align="center">
     <img src="https://img.shields.io/badge/hashnode-black?style=for-the-badge&logo=hashnode&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.frontendmentor.io/profile/Ammar-Sherif-Mohammed-Mekky" align="center">
+    <img src="https://img.shields.io/badge/frontend mentor-red?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
    <br>
   <img src="https://komarev.com/ghpvc/?username=ammar-sherif-mohammed-mekky&label=Profile%20views&color=0e75b6&style=flat" alt="ammar-sherif-mohammed-mekky" /> 
 </p>
