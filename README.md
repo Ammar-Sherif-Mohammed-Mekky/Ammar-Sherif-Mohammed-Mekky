@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Sherif</h1>
-<h3 align="center">A passionate Front-end web developer</h3>
+<h3 align="center">A passionate Front-End web developer</h3>
 
 <p align="center"> 
    <a href="https://www.linkedin.com/in/ammar-mekky-83848421a/" align="center">
